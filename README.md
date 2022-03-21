@@ -26,7 +26,7 @@ For example, run the following command to reproduce the paper's result on CIFAR-
 ### Citation
 If you find this code to be useful for your research, please consider citing.
 <pre>
-@inproceedings{ALBEF,
+@inproceedings{RRL,
       title={Learning from Noisy Data with Robust Representation Learning}, 
       author={Junnan Li and Caiming Xiong and Steven Hoi},
       year={2021},
